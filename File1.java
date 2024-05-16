@@ -2,6 +2,7 @@ class File1
 {
   int x=10000;
 int y=200;
+  int z=500;
 public static void main(String [] args)
 {
 
