@@ -1,5 +1,6 @@
 class File1
 {
+  int x=10000;
 public static void main(String [] args)
 {
 
